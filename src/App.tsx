@@ -1,12 +1,10 @@
+import Hero from "./sections/Hero.tsx";
+
 const App = () => {
 return (
-  <main>
-    <div>
-      <h1>
-        Welcome
-      </h1>
-    </div>
-  </main>
+  <Hero>
+
+  </Hero>
   )
 }
 export default App
